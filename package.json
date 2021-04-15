@@ -20,10 +20,12 @@
     "@material-ui/icons": "^4.11.2",
     "@typescript-eslint/eslint-plugin": "^3.8.0",
     "@typescript-eslint/parser": "^3.8.0",
+    "apollo-server-lambda": "^2.23.0",
     "cross-fetch": "^3.0.6",
     "faunadb": "^4.2.0",
     "gatsby": "^2.24.34",
     "gatsby-plugin-typescript": "^2.4.17",
+    "graphql": "^15.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "typescript": "^3.9.7"

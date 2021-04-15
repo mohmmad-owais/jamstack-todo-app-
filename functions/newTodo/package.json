@@ -1,0 +1,16 @@
+{
+  "name": "newtodo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newTodo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-lambda": "^2.23.0",
+    "faunadb": "^4.2.0",
+    "graphql": "^15.5.0"
+  }
+}

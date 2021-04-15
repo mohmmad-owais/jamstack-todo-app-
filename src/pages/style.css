@@ -1,0 +1,21 @@
+.container{
+    width: 75%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container table {
+    margin: 0 auto;
+    width: 700px;
+}
+
+
+.dltBtn{
+    padding: 0 30px;
+}
+.dltBtn:hover{
+    cursor: pointer;
+}
